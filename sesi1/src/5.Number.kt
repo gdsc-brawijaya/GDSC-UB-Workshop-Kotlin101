@@ -1,10 +1,11 @@
 fun main() {
     val numberOne = 10
-    val numberTwo = 3.0
+    val numberTwo = 3.5
     println(numberOne + numberTwo)
     println(numberOne - numberTwo)
     println(numberOne * numberTwo)
     println(numberOne / numberTwo)
+    println(numberOne % numberTwo)
 
     val stringNumber = "50"
     val intNumber = 3
